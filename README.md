@@ -31,7 +31,7 @@ After that, run the main notebook `project_3.ipynb` using the above local enviro
     ├── Generate close returns
     ├── Generate weighted returns
     └── Compute the tracking error
-├── Part 2: optimize portfolio by minimize the variance and distance from weights of the market cap weighted index
+└── Part 2: optimize portfolio by minimize the variance and distance from weights of the market cap weighted index
     ├── Compute the optimial weights using cvxpy
     └── Rebalance Portfolio Over Time
 
